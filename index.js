@@ -182,9 +182,16 @@ connectButtons();
 // grab the description container
 const descriptionContainer = document.getElementById("description-container");
 
+// Use filter() to count the number of unfunded games
 const unfundedGamesCount = GAMES_JSON.filter(game => game.pledged < game.goal).length;
 
+// Calculate the total raised amount across all games
+// const totalRaised = GAMES_JSON.reduce((accumulator, game) => accumulator + game.pledged, 0);
 
+// Calculate the total number of games
+// const totalGames = GAMES_JSON.length;
+
+// Create a template string to display the information
 const templateString = `
     A total of $${totalRaised.toLocaleString()} for ${totalGames} games.
     ${unfundedGamesCount > 0 ?
@@ -193,8 +200,8 @@ const templateString = `
 `;
 
 // Create a new paragraph element and set its inner HTML to the template string
-const pElement = document.createElement('p');
-pElement.innerHTML = templateString;
+const paragraphElement = document.createElement('p');
+paragraphElement.innerHTML = templateString;
 
 // Add the paragraph element to the descriptionContainer
 descriptionContainer.appendChild(paragraphElement);
