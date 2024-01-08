@@ -33,7 +33,8 @@ GIF created with LiceCap. Also uploaded on imgur: https://imgur.com/a/uRG9e5z
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-Only issue i had was with using the gif url as the image source.
+Only issue i had was with using the gif url as the image source for the readme.
+
 Fun project, it was really nice revewing major JS functions. 
 
 ## License
