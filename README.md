@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='./assets/prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/uRG9e5z' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap. Also uploaded on imgur: https://imgur.com/a/uRG9e5z 
@@ -34,7 +34,7 @@ GIF created with LiceCap. Also uploaded on imgur: https://imgur.com/a/uRG9e5z
 
 ## Notes
 Only issue i had was with using the gif url as the image source.
-Fun project. It was really nice revewing major JS functions. 
+Fun project, it was really nice revewing major JS functions. 
 
 ## License
 
