@@ -26,15 +26,15 @@ Here's a walkthrough of implemented features:
 <img src='./assets/prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with LiceCap
+GIF created with LiceCap. Also uploaded on imgur: https://imgur.com/a/uRG9e5z 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Only issue i had was with using the gif url as the image source.
+Fun project. It was really nice revewing major JS functions. 
 
 ## License
 
