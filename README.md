@@ -1,4 +1,4 @@
-# WEB102 Prework - *GamesFunder
+# WEB102 Prework - *GamesFunder*
 
 Submitted by: **Victor Teluwo**
 
