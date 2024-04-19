@@ -1,6 +1,6 @@
 # WEB102 Prework - *GamesFunder*
 
-Submitted by: **Victor Teluwo**
+
 
 **GamesFunder** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
